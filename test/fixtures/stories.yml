@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  source_id: 
+  title: MyText
+  description: MyText
+  link: MyText
+  guid: MyText
+  permalink: false
+
+two:
+  source_id: 
+  title: MyText
+  description: MyText
+  link: MyText
+  guid: MyText
+  permalink: false
